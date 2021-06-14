@@ -1,6 +1,6 @@
 const express = require("express");
 const morgan = require("morgan");
-const votingRouter = require("./routes/voting")
+const votingRouter = require("./routes/gift_exchange")
 
 const app = express();
 
